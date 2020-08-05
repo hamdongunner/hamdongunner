@@ -1,6 +1,6 @@
 ### Hi there, I'm Mohammed Dhyauldeen - aka [HAMDON][website] 👋
 
-## I'm a Iraqi Developer, and Coding Trainor in FikraCamps!
+## I'm an Iraqi Developer, and Coding Trainor in FikraCamps!
 
 - 👨‍💻 I’m currently working in [Solo Creative Studio][solo]!
 - 👯 I’m looking to collaborate with content creators
@@ -80,7 +80,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hamdongunner&show_icons=true&hide_border=true" />
+<img align="left" alt="Hamdongunner's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hamdongunner&show_icons=true&hide_border=true" />
 
 [website]: https://hamdon.io
 [solo]: http://solostudio.co
