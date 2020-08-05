@@ -69,16 +69,14 @@
 
 ---
 
----
-
 ### 📦 My Latest Npm Packages
 
-<!-- BLOG-POST-LIST:START -->
+<!-- PACKAGES-POST-LIST:START -->
 
 - [ZainCash Package](https://www.npmjs.com/package/zaincash)
 - [Convert Arabic to English Package](https://www.npmjs.com/package/arabic-name-to-en)
 - [Phone Number Formatter For All Countries](https://www.npmjs.com/package/@solocreativestudio/phoneformatter)
-<!-- BLOG-POST-LIST:END -->
+<!-- PACKAGES-POST-LIST:END -->
 
 ---
 
