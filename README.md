@@ -2,7 +2,7 @@
 
 ## I'm an Iraqi Developer, and Coding Trainor in FikraCamps!
 
-- 👨‍💻 I’m currently working in [Solo Creative Studio][solo]!
+- 👨‍💻 I’m currently working in [Digital Zone][dz]!
 - 👯 I’m looking to collaborate with content creators
 - 🥅 Goals: Contribute more to Open Source projects
 - 🎧 Music: I Listen to Almost Anything, You Can Check [My Play List][playlist]!
@@ -84,6 +84,7 @@
 
 [website]: https://hamdon.io
 [solo]: http://solostudio.co
+[dz]: https://digitalzone.app/
 [twitter]: https://twitter.com/hamdongunner
 [instagram]: https://instagram.com/hamdongunner
 [linkedin]: https://www.linkedin.com/in/muhammed-deaa-al-deen-mahmoud-882259138
