@@ -1,4 +1,4 @@
-### Hi there, I'm Mohammed Dhyauldeen - aka [HAMDON][website] 👋
+### Hi there, I'm Mohammed Dhyauldeen - aka HAMDON 👋
 
 ## I'm an Iraqi Developer, and Coding Trainor in FikraCamps!
 
