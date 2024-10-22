@@ -2,7 +2,7 @@
 
 ## I'm an Iraqi Developer, and Coding Trainor in FikraCamps!
 
-- 👨‍💻 I’m currently working in [Digital Zone][dz]!
+- 👨‍💻 I’m currently working in [Mercedes-Benz][mb]!
 - 👯 I’m looking to collaborate with content creators
 - 🥅 Goals: Contribute more to Open Source projects
 - 🎧 Music: I Listen to Almost Anything, You Can Check [My Play List][playlist]!
@@ -10,7 +10,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="hamdongunner.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="hamdongunner | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="hamdongunner | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="hamdongunner | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -82,9 +81,8 @@
 
 <img align="left" alt="Hamdongunner's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hamdongunner&show_icons=true&hide_border=true" />
 
-[website]: https://hamdon.io
-[solo]: http://solostudio.co
-[dz]: https://digitalzone.app/
+
+[mb]: https://mercedes-benz.com
 [twitter]: https://twitter.com/hamdongunner
 [instagram]: https://instagram.com/hamdongunner
 [linkedin]: https://www.linkedin.com/in/muhammed-deaa-al-deen-mahmoud-882259138
