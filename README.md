@@ -1,6 +1,6 @@
 ### Hi there, I'm Mohammed Dhyauldeen - aka HAMDON 👋
 
-## I'm an Iraqi Developer, and Coding Trainor in FikraCamps!
+## I'm a Developer living in Berlin!
 
 - 👨‍💻 I’m currently working in [Mercedes-Benz][mb]!
 - 👯 I’m looking to collaborate with content creators
