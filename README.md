@@ -83,7 +83,7 @@
 
 
 [dz]: https://dz.iq
-[gr]: [https://dz.iq](https://www.goodreads.com/user/show/116860990?ref=nav_profile_l)
+[gr]: https://www.goodreads.com/user/show/116860990?ref=nav_profile_l
 [twitter]: https://x.com/hamdongunner
 [instagram]: https://instagram.com/hamdongunner
 [linkedin]: https://www.linkedin.com/in/muhammed-deaa-al-deen-mahmoud-882259138
