@@ -86,10 +86,10 @@
 [gr]: https://www.goodreads.com/user/show/116860990?ref=nav_profile_l
 [twitter]: https://x.com/hamdongunner
 [instagram]: https://instagram.com/hamdongunner
-[linkedin]: https://www.linkedin.com/in/muhammed-deaa-al-deen-mahmoud-882259138
+[linkedin]: https://www.linkedin.com/in/m-karhoot/
 [medium]: https://medium.com/@hamdongunner
 [npm]: https://www.npmjs.com/~hamdongunner
-[playlist]: https://www.youtube.com/playlist?list=PLkP0xRtls7f8nBs1d322VJgLrHI65k8Po
+[playlist]: https://open.spotify.com/playlist/2O3gPiOK6hWiYaEVEJs1Hf?si=a99e15f78066433d
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
