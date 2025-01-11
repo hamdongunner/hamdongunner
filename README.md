@@ -6,7 +6,7 @@
 - 🥅 Goals: Contribute more to Open Source projects
 - 🎧 Music: I Listen to Almost Anything, You Can Check [My Play List][playlist]!
 - ⚡ Fun fact: I love to play guitar
-- 📕 This is my [Goodreads][gr]! account 
+- 📕 This is my [Goodreads][gr] account 
 
 ### Connect with me:
 
