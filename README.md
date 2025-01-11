@@ -2,11 +2,11 @@
 
 ## I'm a Developer living in Berlin!
 
-- 👨‍💻 I’m currently working in [Mercedes-Benz][mb]!
-- 👯 I’m looking to collaborate with content creators
+- 👨‍💻 I’m currently working in [DigitalZone][dz]!
 - 🥅 Goals: Contribute more to Open Source projects
 - 🎧 Music: I Listen to Almost Anything, You Can Check [My Play List][playlist]!
-- ⚡ Fun fact: I love to creat content and play guitar
+- ⚡ Fun fact: I love to play guitar
+- This is my [Goodreads][gr] account 
 
 ### Connect with me:
 
@@ -82,8 +82,9 @@
 <img align="left" alt="Hamdongunner's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hamdongunner&show_icons=true&hide_border=true" />
 
 
-[mb]: https://mercedes-benz.com
-[twitter]: https://twitter.com/hamdongunner
+[dz]: https://dz.iq
+[gr]: [https://dz.iq](https://www.goodreads.com/user/show/116860990?ref=nav_profile_l)
+[twitter]: https://x.com/hamdongunner
 [instagram]: https://instagram.com/hamdongunner
 [linkedin]: https://www.linkedin.com/in/muhammed-deaa-al-deen-mahmoud-882259138
 [medium]: https://medium.com/@hamdongunner
