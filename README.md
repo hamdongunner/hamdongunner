@@ -6,7 +6,8 @@
 - 🥅 Goals: Contribute more to Open Source projects
 - 🎧 Music: I Listen to Almost Anything, You Can Check [My Play List][playlist]!
 - ⚡ Fun fact: I love to play guitar
-- 📕 This is my [Goodreads][gr] account 
+- 📕 This is my [Goodreads][gr] account
+- 👨🏻‍💻 My work account [HamdonDZ][hdz] 
 
 ### Connect with me:
 
@@ -83,6 +84,7 @@
 
 
 [dz]: https://dz.iq
+[hdz]: https://github.com/hamdondz
 [gr]: https://www.goodreads.com/user/show/116860990?ref=nav_profile_l
 [twitter]: https://x.com/hamdongunner
 [instagram]: https://instagram.com/hamdongunner
