@@ -50,7 +50,6 @@
 - [How to Build Products Users Love (Kevin Hale)](https://youtu.be/sz_LgBAGYyo)
 - [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://youtu.be/8aGhZQkoFbQ)
 - [Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf](https://youtu.be/e-5obm1G_FY)
-- [Netflix JavaScript Talks - Making Bandersnatch](https://youtu.be/WLqc0EX8Bmg)
 - [Clean Code - Uncle Bob](https://youtu.be/7EmboKQH8lM)
 <!-- YOUTUBE:END -->
 
